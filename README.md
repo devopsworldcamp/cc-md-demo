@@ -1,2 +1,5 @@
 # cc-md-demo
-CousCous Markdown Demo
+Markdown Documentation Site Demo based on the [CousCous](http://couscous.io/)
+
+
+
